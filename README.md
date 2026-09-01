@@ -10,7 +10,7 @@ Public academic website for [Dewashish Tiwari](https://dewashishtiwari.github.io
 - Projects
 - Public CV
 
-The site is a dependency-free static build for GitHub Pages. It supports responsive layouts, keyboard navigation, reduced-motion preferences, and light/dark themes.
+The site is a dependency-free static build for GitHub Pages. Its design is intentionally restrained and content-led, with responsive layouts and keyboard-accessible navigation.
 
 ## Privacy
 
